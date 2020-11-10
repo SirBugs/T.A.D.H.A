@@ -1,5 +1,3 @@
-![](./Tik_Tok_wordmark.png.png)
-
 ```
 # T.A.D.H.A
 Tiktok Application Data Hashing Algorithm
