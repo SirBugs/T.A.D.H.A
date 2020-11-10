@@ -1,7 +1,8 @@
+![](./Tik_Tok_wordmark.png.png)
+
 ```
 # T.A.D.H.A
 Tiktok Application Data Hashing Algorithm
-![](./Tik_Tok_wordmark.png.png)
 
 
  @Facebook: fb/SirBugs
