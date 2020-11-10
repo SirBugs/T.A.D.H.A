@@ -10,6 +10,7 @@ Tiktok Application Data Hashing Algorithm
 I was Getting The App Request For Cracking ..
 Suddenly I FoundOut That The Data That's Being Sent Is Hashed ..
 Then I Got The Replces For : 
+
 -/|\:;()[]{}<>!#$%^&*=+_.@
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
 abcdefghijklmnopqrstuvwxyz
