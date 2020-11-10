@@ -7,8 +7,43 @@ Tiktok Application Data Hashing Algorithm
       @Telegram: SirBugs
             @ICQ: SirBugs
 
-I was Getting The App Request For Cracking ..
+I was Getting The App Login Request ..
 Suddenly I FoundOut That The Data That's Being Sent Is Hashed ..
+
+HEADERS:
+==========
+POST /passport/user/login/?residence=EG&device_id=6718758026230695429&os_version=14.1&app_id=1233&iid=6893371490471167746&app_name=musical_ly&vendor_id=DFBB022B-E5F9-44F1-B2F8-75FA0F909A8B&locale=en&ac=WIFI&sys_region=EG&js_sdk_version=1.77.0.2&ssmix=a&version_code=17.8.1&vid=DFBB022B-E5F9-44F1-B2F8-75FA0F909A8B&channel=App%20Store&op_region=EG&tma_jssdk_version=1.77.0.2&os_api=18&idfa=00000000-0000-0000-0000-000000000000&install_id=6893371490471167746&idfv=DFBB022B-E5F9-44F1-B2F8-75FA0F909A8B&device_platform=iphone&device_type=iPhone8%2C2&openudid=a2c9d91b7dad4214566a44f252ca8af64a987b7f&account_region=&tz_name=Africa%2FCairo&tz_offset=7200&app_language=en&carrier_region=EG&current_region=EG&aid=1233&mcc_mnc=60202&screen_width=1242&uoo=1&content_language=&language=en&cdid=6E81B29D-0443-48CA-BBBB-6ACE2358F084&build_number=178101&app_version=17.8.1&resolution=1242%2A2208 HTTP/1.1
+Host: api16-normal-c-alisg.tiktokv.com
+Connection: close
+Content-Length: 48
+Cookie: odin_tt=2e9eac5e4130390d0b6431bc2ba172830613471bc43ec918c837519861d5f82a0541eed360a3475efb2ba940a78f64747903d6e39635d649df236d3d802c4533; install_id=6893371490471167746; ttreq=1$d35ce7e5a8c33a3d0e832ff35cb5141ca6752aff; passport_csrf_token=e0e321aa63b92d57de9d4169ae9eec87; store-idc=alisg; store-country-code=eg
+Content-Type: application/x-www-form-urlencoded
+X-SS-Cookie: store-country-code=eg; store-idc=alisg; passport_csrf_token=e0e321aa63b92d57de9d4169ae9eec87; install_id=6893371490471167746; ttreq=1$d35ce7e5a8c33a3d0e832ff35cb5141ca6752aff; odin_tt=2e9eac5e4130390d0b6431bc2ba172830613471bc43ec918c837519861d5f82a0541eed360a3475efb2ba940a78f64747903d6e39635d649df236d3d802c4533
+tt-request-time: 1604989391580
+User-Agent: TikTok 17.8.1 rv:178101 (iPhone; iOS 14.1; en_EG) Cronet
+x-tt-passport-csrf-token: e0e321aa63b92d57de9d4169ae9eec87
+sdk-version: 2
+passport-sdk-version: 5.12.1
+X-SS-STUB: B700C0B450BE72CBDB4D7AA2EC1AEE09
+x-tt-store-idc: alisg
+x-tt-store-region: eg
+X-SS-DP: 1233
+x-tt-trace-id: 00-b0d29452105d3dd2d3cd4906051f04d1-b0d29452105d3dd2-01
+Accept-Encoding: gzip, deflate
+X-Khronos: 1604989390
+X-Gorgon: 8402c08500003294d8866d16d024020912601d3813cc61663db0
+==========================================================================================================================
+POST Data:
+============
+mix_mode=1&multi_login=1&password=7f&username=71
+==========================================================================================================================
+Response:
+============
+{"data":{"alert_text":"Incorrect account or password","captcha":"","desc_url":"","description":"Incorrect account or password","error_code":1009},"message":"error"}
+
+==========================================================================================================================
+==========================================================================================================================
+
 Then I Got The Replces For : 
 
 -/|\:;()[]{}<>!#$%^&*=+_.@
